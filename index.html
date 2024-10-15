@@ -8,7 +8,8 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com/" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet"/> 
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
     <div>
@@ -31,8 +32,11 @@
                     </div>
                     <div class="search flex justify-center align-center">
                         <div class="flex">
+                            <!-- BUG: need  Merge the Input Bar with the icon -->
                             <input class="inputSearch py-1 px-1" type="text" placeholder="Search" size="40">
-                            <img class="searchIcon" src="icons/search.png" alt="searchIcon">
+                            <div>
+                                <i class="fa fa-key icon"></i>
+                            </div>
                         </div>
                     </div>
                 </nav>

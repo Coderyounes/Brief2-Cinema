@@ -14,13 +14,9 @@
 }
 
 .inputSearch {
-    position: relative;
     width: 300px;
     background-color: #FFCCFD;
     border: none;
     border-radius: 10px;
 }
 
-searchIcon {
-    position: absolute;
-}
