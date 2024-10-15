@@ -27,7 +27,26 @@
     background-position-y: 50%;
 }
 
+.links {
+    background-color: #330031;
+    color: white;
+}
+
+
+
 .footerBox {
+    list-style: circle;
     width: 25%;
     border-right: white solid 3px;
+}
+
+.footerBox:last-child {
+    border-right: white solid 0px;
+}
+
+.footerBoxfont {
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    font-family: Comfortaa;
 }
