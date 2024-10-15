@@ -46,6 +46,22 @@
     font-family: Comfortaa;
 }
 
+.line-text {
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 10px 0px;
+  }
+  
+  .line-text span {
+    margin-left: 30px;
+    font-family: Comfortaa;
+    font-weight: bold;
+    font-size: 20px;
+    background: #fff;
+    padding: 5px 10px;
+    letter-spacing: 5px;
+  }
+
 .title {
     font-size: 80px;
 }
@@ -66,6 +82,17 @@
     border-radius: 40px;
     font-size: 24px;
     color: #FFCCFD;
+    background-color: #330031;
+}
+
+.topbtn {
+    width: 250px;;
+    font-family: Comfortaa;
+    letter-spacing: 4px;
+    border: none;
+    border-radius: 40px;
+    font-size: 18px;
+    color: white;
     background-color: #330031;
 }
 
