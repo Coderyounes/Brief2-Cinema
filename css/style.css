@@ -36,7 +36,10 @@
     color: white;
 }
 
-
+.heroSection {
+    border-bottom-right-radius: 180px 180px;
+    background: linear-gradient(45deg, #CA26FF, #F4CAC0, #FFF3B0);
+}
 
 .footerBox {
     list-style: circle;
