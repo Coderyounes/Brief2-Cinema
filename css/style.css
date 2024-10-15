@@ -8,8 +8,11 @@
     font-size: 2rem;
 }
 
+.navlist li {
+    list-style: none;
+}
+
 .search {
-    width: 300px;
     height: 100px;
 }
 
@@ -17,6 +20,9 @@
     width: 300px;
     background-color: #FFCCFD;
     border: none;
-    border-radius: 10px;
+    border-radius: 20px;
+    background-image: url('../icons/search.png');
+    background-repeat: no-repeat;
+    background-position-x: 95%;
+    background-position-y: 50%;
 }
-
