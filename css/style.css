@@ -26,3 +26,8 @@
     background-position-x: 95%;
     background-position-y: 50%;
 }
+
+.footerBox {
+    width: 25%;
+    border-right: white solid 3px;
+}
