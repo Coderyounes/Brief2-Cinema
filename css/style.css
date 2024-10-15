@@ -1,0 +1,26 @@
+.Logo {
+    font-family: Comfortaa;
+    font-size: 3rem;
+}
+
+.navlist {
+    font-family: Comfortaa;
+    font-size: 2rem;
+}
+
+.search {
+    width: 300px;
+    height: 100px;
+}
+
+.inputSearch {
+    position: relative;
+    width: 300px;
+    background-color: #FFCCFD;
+    border: none;
+    border-radius: 10px;
+}
+
+searchIcon {
+    position: absolute;
+}
