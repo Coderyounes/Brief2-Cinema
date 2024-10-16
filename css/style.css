@@ -92,6 +92,7 @@ a {
     font-size: 24px;
     color: #FFCCFD;
     background-color: #330031;
+    cursor: pointer;
 }
 
 .topbtn {
@@ -103,6 +104,7 @@ a {
     font-size: 18px;
     color: white;
     background-color: #330031;
+    cursor: pointer;
 }
 
 .explore {
@@ -142,6 +144,10 @@ a {
 .sBoxParagh {
     font-family: Comfortaa;
     letter-spacing: 3px;
+}
+
+.btnBox {
+    width: 400px;
 }
 
 .footerBox {

@@ -167,6 +167,13 @@
     text-align: center;
 }
 
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.text-white {
+    color: white;
+}
 
 /* font size & weight for Section title */
 
