@@ -192,3 +192,69 @@ a {
     font-size: large;
     font-family: Comfortaa;
 }
+
+
+/* Movies Page */
+
+.moviePage {
+    background: linear-gradient(to bottom right, #330031 0%, #3B0039 17%, #990093 100%);
+}
+
+.movieImage {
+    border-radius: 30px;
+    filter: blur(5px);
+}
+
+.movieTcontainer {
+     position: absolute;
+     top: 25%;
+}
+
+.movieDiv {
+    position: relative;
+}
+
+.movieText1 {
+    font-family: Comfortaa;
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+}
+
+.movieText2 {
+    position: absolute;
+    font-family: Comfortaa;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    left: 80px;
+    margin-top: -40px;
+}
+
+.btn-container {
+    position: absolute;
+    left: 150px;
+    margin-top: 20px;
+}
+
+.moviebutton {
+    margin-top: 30px;
+    border: none;
+    border-radius: 40px;
+    font-size: 24px;
+    color: #FFCCFD;
+    background-color: #CC00C6;
+    cursor: pointer;
+}
+
+#Title {
+    font-family: Comfortaa;
+    color: white;
+    font-size: 60px;
+    letter-spacing: 3px;
+}
+
+.icon-movie {
+    background-color: #D9D9D9;
+    border-radius: 90px;
+}
