@@ -264,3 +264,64 @@ a {
     grid-template-columns: repeat(3, 0fr);
     gap: 70px;
 }
+
+.poster-box1 {
+    width: 400px;
+    height: 571px;
+    background-image: url(../images/poster.jpg);
+}
+
+.poster-box2 {
+    width: 400px;
+    height: 571px;
+    background-image: url(../images/poster1.jpg);
+}
+
+.poster-box3 {
+    width: 400px;
+    height: 571px;
+    background-image: url(../images/poster5.jpg);
+}
+
+.poster-box4 {
+    width: 400px;
+    height: 571px;
+    background-image: url(../images/poster3.jpg);
+}
+
+.poster-box5 {
+    width: 400px;
+    height: 571px;
+    background-image: url(../images/Poster7.jpg);
+}
+
+.poster-box6 {
+    width: 400px;
+    height: 571px;
+    background-image: url(../images/c9d9118099b6b899f62ba3ffa82903ee.jpg);
+}
+
+.P-cadre {
+    position: relative;
+    width: 100%;
+    height: 130px;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+
+.poster-Btn {
+    position: absolute;
+    left: 90px;
+    background-color: black;
+    color: white;
+    opacity: 70%;
+    font-family: Comfortaa;
+    font-size: larger;
+    letter-spacing: 3px;
+    border-radius: 20px;
+    border: none;
+}
+
+.poster-Btn:hover {
+    opacity: 100%;
+}
