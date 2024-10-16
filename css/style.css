@@ -258,3 +258,9 @@ a {
     background-color: #D9D9D9;
     border-radius: 90px;
 }
+
+.grideffect {
+    display: grid;
+    grid-template-columns: repeat(3, 0fr);
+    gap: 70px;
+}
