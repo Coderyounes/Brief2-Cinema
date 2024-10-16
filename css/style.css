@@ -12,6 +12,11 @@
     list-style: none;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
 .search {
     height: 100px;
 }
@@ -110,6 +115,33 @@
     display: grid;
     grid-template-columns: repeat(3, 0fr); 
     gap: 20px;
+}
+
+.service {
+    font-family: Comfortaa;
+    font-size: 58px;
+    padding-bottom: 40px;
+    margin-left: 170px;
+}
+
+.serviceBox {
+    width: 400px;
+}
+
+.sBoxHead {
+    border-radius: 10px;
+    background-color: #330031;
+    font-family: Comfortaa;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 6px;
+    color: white;
+
+}
+
+.sBoxParagh {
+    font-family: Comfortaa;
+    letter-spacing: 3px;
 }
 
 .footerBox {
