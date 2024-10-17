@@ -403,6 +403,8 @@ a {
 }
 
 .tarif-box {
+    width: 266px;
+    height: 588px;
     border: 1px solid black;
 }
 
@@ -439,13 +441,14 @@ a {
     font-size: xx-large;
     font-weight: lighter;
     background-color: #D9D9D9;
-    border-radius: 30px;
+    border-radius: 20px;
 }
 
 .tarif-contenue {
     font-family: Comfortaa;
     letter-spacing: 2px;
     font-size: large;
+    line-height: 20px;
 }
 
 .upBoxes {
