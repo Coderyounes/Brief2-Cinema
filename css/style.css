@@ -396,3 +396,58 @@ a {
     background-color: #990094;
     cursor: pointer;
 }
+
+.tarif-container {
+    gap: 40px;
+    height: 80vh;
+}
+
+.tarif-box {
+    border: 1px solid black;
+}
+
+.T-title {
+    font-family: Comfortaa;
+    font-size: xxx-large;
+    font-weight: lighter;
+}
+
+.plan-type {
+    font-family: Comfortaa;
+    font-size: xx-large;
+    font-weight: lighter;
+    background-color: #561353;
+    opacity: 80%;
+    color: white;
+}
+
+.plan-type-up {
+    font-family: Comfortaa;
+    font-size: xx-large;
+    font-weight: lighter;
+    background-color: rgba(255, 102, 250, 0.6);
+    color: black;
+}
+
+.price {
+    font-family: Comfortaa;
+    font-size: 50px;
+}
+
+.plan-Btn {
+    font-family: Comfortaa;
+    font-size: xx-large;
+    font-weight: lighter;
+    background-color: #D9D9D9;
+    border-radius: 30px;
+}
+
+.tarif-contenue {
+    font-family: Comfortaa;
+    letter-spacing: 2px;
+    font-size: large;
+}
+
+.upBoxes {
+    align-self: start;
+}
