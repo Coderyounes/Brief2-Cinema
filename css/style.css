@@ -450,6 +450,15 @@ a {
     border-radius: 20px;
 }
 
+.plan-Btn2 {
+    margin-top: 20px;
+    font-family: Comfortaa;
+    font-size: xx-large;
+    font-weight: lighter;
+    background-color: #D9D9D9;
+    border-radius: 20px;
+}
+
 .tarif-contenue {
     font-family: Comfortaa;
     letter-spacing: 2px;
@@ -461,9 +470,22 @@ a {
     align-self: start;
 }
 
+.hero-text {
+    line-height: 0%;
+}
+
 
 .hidden-elem {
     display: none;
+}
+
+.footerstyle {
+    background-color: #330031;
+    color: white;
+}
+
+.month {
+    margin-top: 15px;
 }
 
 .shadowBox {
