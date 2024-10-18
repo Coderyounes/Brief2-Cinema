@@ -91,7 +91,7 @@ a {
     border: none;
     border-radius: 40px;
     font-size: 24px;
-    color: #FFCCFD;
+    color: white;
     background-color: #330031;
     cursor: pointer;
 }
@@ -177,6 +177,12 @@ a {
     font-family: Comfortaa;
     letter-spacing: 3px;
 }
+
+.sBoxBtn {
+    padding-left: 180px;
+    padding-right: 180px;
+}
+
 
 .btnBox {
     width: 400px;
