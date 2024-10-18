@@ -454,3 +454,8 @@ a {
 .upBoxes {
     align-self: start;
 }
+
+
+.hidden-elem {
+    display: none;
+}
